@@ -1,0 +1,17 @@
+{
+    "name": "kdewitt/hello-world",
+    "version": "1.0.0",
+    "description": "Test package",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenny DeWitt",
+            "email": "kenhedewitt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
